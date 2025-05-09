@@ -33,13 +33,13 @@ Este é um sistema de gerenciamento de estoque desenvolvido em **C++** com **Qt 
    cd estoque-qt
    ```
 2. Compile o projeto com Qt Creator ou via terminal:
-  ```bash
-  qmake && make
-   ```
+     ```bash
+     qmake && make
+      ```
 3. Execute o programa:
-  ```bash
-./estoque-qt
-  ```
+     ```bash
+   ./estoque-qt
+     ```
 
 4. Autores
 - Daniel Rodrigues RA: 2022101144
